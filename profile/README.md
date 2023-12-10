@@ -15,7 +15,7 @@ Don't hesitate to reach out and follow if you are interested!
 - Franchi, G., Bursuc, A., Aldea, E., Dubuisson, S., & Bloch, I. (2023). Encoding the latent posterior of Bayesian neural networks for uncertainty quantification. [[TPAMI]](https://arxiv.org/pdf/2012.02818.pdf).
 - Laurent, O., Aldea E. & Franchi, G. (2023). A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. [[ArXiv]](https://arxiv.org/pdf/2310.08287.pdf).
 - Laroudie, C., Bursuc, A., Ha, M. L., & Franchi, G. (2023). Improving CLIP Robustness with Knowledge Distillation and Self-Training. [[ArXiv]](https://arxiv.org/pdf/2309.10361.pdf).
-- Yu, X., Franchi, G., Gu, J., & Aldea, E. (2023). Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. [[ArXiv]](https://arxiv.org/pdf/2308.09065.pdf).
+- Yu, X., Franchi, G., Gu, J., & Aldea, E. Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. [[AAAI, 2024]](https://arxiv.org/pdf/2308.09065.pdf).
 - Franchi, G., Hariat, M., Yu, X., Belkhir, N., Manzanera, A., & Filliat, D. InfraParis: A multi-modal and multi-task autonomous driving dataset. In [[WACV, 2024]](https://arxiv.org/pdf/2309.15751.pdf).
 - Hariat, M., Laurent, O., Kazmierczak, R., Bursuc, A., Yao, A., & Franchi, G. Learning to Generate Training Datasets for Robust Semantic Segmentation. In [[WACV, 2024]](https://arxiv.org/abs/2308.02535).
 - Laurent, O., Lafage, A., Tartaglione, E., Daniel, G., Martinez, J. M., Bursuc, A., & Franchi, G. Packed-Ensembles for Efficient Uncertainty Estimation. In [[ICLR, 2023]](https://arxiv.org/pdf/2210.09184.pdf).
